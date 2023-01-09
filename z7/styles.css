@@ -1,0 +1,36 @@
+.content{
+	height:auto; 
+	min-height:100%; 
+	width:100%; display:flex; 
+	background-color:LightBlue;
+	}
+		
+.topbar{
+	height:50px; 
+	width:100%; 
+	background-color:Grey;
+	}
+	
+.sidecontent{
+	height:auto; 
+	min-height:100%; 
+	width:15%; 
+	float:left; 
+	background-color:Silver;
+	padding: 5px;
+	}
+	
+.maincontent{
+	height:fit-content; 
+	min-height:100%; width:85%; 
+	float:left; 
+	background-color:LightBlue;
+	padding: 5px;
+	}
+		
+.topicbar{
+	height:10%; 
+	width:100%; 
+	background-color:SteelBlue;
+	}
+	
